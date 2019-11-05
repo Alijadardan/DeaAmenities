@@ -1,0 +1,261 @@
+[06-Sep-2019 13:53:01 UTC] PHP Fatal error:  Class 'Requests_Hooks' not found in /app/public/wp-includes/class-wp-http-requests-hooks.php on line 17
+[06-Sep-2019 13:53:02 UTC] PHP Parse error:  syntax error, unexpected '%', expecting identifier (T_STRING) in phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests.php on line 47
+[13-Sep-2019 09:01:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/dea-amenities-theme/functions.php on line 3
+[13-Sep-2019 09:35:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/wp-content/themes/dea-amenities-theme/functions.php on line 4
+[13-Sep-2019 10:03:58 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/cache.php on line 544
+[13-Sep-2019 10:03:58 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[13-Sep-2019 10:05:13 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /app/public/wp-includes/class-wp-hook.php on line 279
+[13-Sep-2019 10:05:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /app/public/wp-includes/class-wp-hook.php on line 279
+[13-Sep-2019 13:31:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 1
+[13-Sep-2019 13:34:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 1
+[13-Sep-2019 13:34:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 1
+[13-Sep-2019 13:35:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 1
+[13-Sep-2019 13:37:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 1
+[13-Sep-2019 13:41:21 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /app/public/wp-includes/class.wp-dependencies.php on line 296
+[13-Sep-2019 13:41:39 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /app/public/wp-includes/class.wp-dependencies.php on line 296
+[13-Sep-2019 13:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 1
+[13-Sep-2019 13:47:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 1
+[13-Sep-2019 13:48:42 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /app/public/wp-includes/class.wp-dependencies.php on line 296
+[13-Sep-2019 13:52:51 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/option.php on line 34
+[13-Sep-2019 13:52:51 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[13-Sep-2019 13:53:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in /app/public/wp-includes/option.php on line 34
+[13-Sep-2019 13:53:04 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 262144 bytes) in Unknown on line 0
+[13-Sep-2019 13:53:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 1
+[16-Sep-2019 08:13:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 1
+[16-Sep-2019 08:22:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 1
+[16-Sep-2019 08:22:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 1
+[16-Sep-2019 08:23:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 1
+[16-Sep-2019 08:25:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:25:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:25:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:28:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:28:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:28:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:28:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:28:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:30:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:30:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:30:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:30:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:30:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:31:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:33:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 08:33:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 2
+[16-Sep-2019 10:35:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:37:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/dea-amenities-theme/functions.php on line 38
+[16-Sep-2019 10:39:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/dea-amenities-theme/functions.php on line 38
+[16-Sep-2019 10:39:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /app/public/wp-content/themes/dea-amenities-theme/functions.php on line 38
+[16-Sep-2019 10:40:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:40:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:40:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:40:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:40:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:40:10 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:40:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:40:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:40:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:40:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:40:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:40:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:40:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:40:11 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:41:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:43:50 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:44:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:44:37 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:45:38 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:46:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'posTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 10:47:20 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:09:31 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:09:31 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:09:33 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:10:33 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:12:33 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:13:33 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:26:37 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:26:37 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:26:40 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:05 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 12:27:06 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'postTypes' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
+[16-Sep-2019 13:06:02 UTC] PHP Fatal error:  Cannot redeclare postTypes() (previously declared in /app/public/wp-content/mu-plugins/post-types.php:4) in /app/public/wp-content/mu-plugins/post-types.php on line 31
+[16-Sep-2019 13:53:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /app/public/wp-content/themes/dea-amenities-theme/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 3
+[16-Sep-2019 14:18:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/post-template.php on line 310
+[16-Sep-2019 14:18:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/post-template.php on line 310
+[17-Sep-2019 09:12:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /app/public/wp-content/themes/dea-amenities-theme/single-category.php:5
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/single-category.php on line 5
+[17-Sep-2019 09:12:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /app/public/wp-content/themes/dea-amenities-theme/single-category.php:5
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/single-category.php on line 5
+[17-Sep-2019 09:13:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in /app/public/wp-content/themes/dea-amenities-theme/single-category.php:5
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/single-category.php on line 5
+[17-Sep-2019 09:30:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /app/public/wp-content/themes/dea-amenities-theme/single-category.php:26
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/single-category.php on line 26
+[18-Sep-2019 08:41:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_field() in /app/public/wp-content/themes/dea-amenities-theme/index.php:119
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 119
+[18-Sep-2019 08:41:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_field() in /app/public/wp-content/themes/dea-amenities-theme/index.php:119
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/index.php on line 119
+[18-Sep-2019 12:47:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theme_uri() in /app/public/wp-content/themes/dea-amenities-theme/functions.php:34
+Stack trace:
+#0 /app/public/wp-includes/class-wp-hook.php(286): filess('')
+#1 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /app/public/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /app/public/wp-includes/script-loader.php(2539): do_action('wp_enqueue_scri...')
+#4 /app/public/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#5 /app/public/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /app/public/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#7 /app/public/wp-includes/general-template.php(2745): do_action('wp_head')
+#8 /app/public/wp-content/themes/dea-amenities-theme/header.php(6): wp_head()
+#9 /app/public/wp-includes/template.php(722): require_once('/app/public/wp-...')
+#10 /app/public/wp-includes/template.php(671): load_template('/app/public/wp-...', true)
+#11 /app/public/wp-inclu in /app/public/wp-content/themes/dea-amenities-theme/functions.php on line 34
+[30-Sep-2019 07:59:58 UTC] WordPress database error Server shutdown in progress for query SELECT option_value FROM wp_options WHERE option_name = 'WPLANG' LIMIT 1 made by include('phar:///usr/local/bin/wp/php/boot-phar.php'), include('phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->load_wordpress, require('wp-settings.php'), include_once('/plugins/advanced-custom-fields/acf.php'), acf, ACF->initialize, __, translate, get_translations_for_domain, _load_textdomain_just_in_time, _get_path_to_translation, _get_path_to_translation_from_lang_dir, determine_locale, get_locale, get_option
+[30-Sep-2019 07:59:58 UTC] WordPress database error Server shutdown in progress for query SELECT option_value FROM wp_options WHERE option_name = 'WPLANG' LIMIT 1 made by include('phar:///usr/local/bin/wp/php/boot-phar.php'), include('phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->load_wordpress, require('wp-settings.php'), include_once('/plugins/advanced-custom-fields/acf.php'), acf, ACF->initialize, __, translate, get_translations_for_domain, _load_textdomain_just_in_time, _get_path_to_translation, _get_path_to_translation_from_lang_dir, determine_locale, get_locale, get_option
+[30-Sep-2019 07:59:59 UTC] PHP Warning:  Error while sending QUERY packet. PID=1095 in /app/public/wp-includes/wp-db.php on line 2007
+[30-Sep-2019 07:59:59 UTC] PHP Warning:  Error while sending QUERY packet. PID=1100 in /app/public/wp-includes/wp-db.php on line 2007
+[29-Oct-2019 11:25:47 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /app/public/wp-includes/update.php on line 384
+[29-Oct-2019 11:26:12 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /app/public/wp-includes/update.php on line 569
+[03-Nov-2019 13:55:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_description() in /app/public/wp-content/themes/dea-amenities-theme/archive-products.php:23
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(78): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/dea-amenities-theme/archive-products.php on line 23
