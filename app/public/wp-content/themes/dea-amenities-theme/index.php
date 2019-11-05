@@ -149,19 +149,18 @@ get_header(); ?>
           ));
           while($homepageProdukte->have_posts()){
            $homepageProdukte->the_post();?>
-           <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp">
-             <div class="portfolio-wrap">
-               <figure>
-                 <img src="<?php the_post_thumbnail_url(); ?>" class="img-fluid" alt="">
-                 <a href="<?php the_permalink(); ?>" data-lightbox="portfolio" data-title="App 1" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
-                 <a href="<?php the_permalink(); ?>" class="link-details" title="More Details"><i class="ion ion-android-open"></i></a>
-                </figure>
-                <div class="portfolio-info">
-                  <h4><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h4>
-                  <p><?php echo wp_trim_words(get_the_content(), 10); ?><a href="<?php the_permalink(); ?>" class="nu gray">                Shiko me shume</a></p>
-                </div>
-              </div>
-            </div>
+            <div class="col-lg-4 mb-4">
+     <a href="<?php the_permalink();?>">
+          <!-- Item -->
+          <figure style="background: #DEDEDE;" class="caption-3 mb-0 shadow-sm p-3 ">
+            <img src="<?php the_post_thumbnail_url();?>" alt="" class="w-100">
+            <figcaption style="background: #FFC5B9;" class="px-5 py-3 shadow-sm">
+              <h2 class="h5 mb-1 font-weight-bold font-italic"><?php the_title(); ?></h2>
+              <p class="mb-0 text-small font-italic text-muted"><?php the_field('short_description'); ?></p>
+            </figcaption>
+          </figure>
+          </a>
+        </div>
             <?php
             }?>
             </div>
@@ -257,7 +256,7 @@ get_header(); ?>
       <div class="container">
         <div class="section-header">
           <h3>Na kontaktoni</h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+          <p>Na kontaktoni duke plotsuar formen me poshte!</p>
         </div>
         <div class="row contact-info">
           <div class="col-md-4">

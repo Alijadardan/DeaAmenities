@@ -24,7 +24,7 @@ while (have_posts()) {
                     while ($CategoryProdukte->have_posts()) {
                         $CategoryProdukte->the_post();
                         ?>
-                    <div class="col-lg-4">
+                    <div class="col-lg-4  mb-4">
      <a href="<?php the_permalink();?>">
           <!-- Item -->
           <figure style="background: #DEDEDE;" class="caption-3 mb-0 shadow-sm p-3">

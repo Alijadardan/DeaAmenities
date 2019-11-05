@@ -9,7 +9,7 @@ get_header();
       <div class="container">
         <div class="section-header">
           <h3>Na kontaktoni</h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+          <p>Na kontaktoni duke plotsuar formen me poshte!</p>
         </div>
         <div class="row contact-info">
           <div class="col-md-4">

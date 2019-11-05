@@ -20,7 +20,7 @@
           <li class="menu-active"><a href="/">Home</a></li>
           <li><a href="<?php echo site_url('/about')?>">Rreth Nesh</a></li>
           <li><a href="<?php echo site_url('/services')?>">Sherbimet</a></li>
-          <li class="menu-has-children"><a href="<?php echo site_url('/categories')?>">Kategorite    <i class="fa fa-caret-down" aria-hidden="true"></i></a>
+          <li class="menu-has-children"><a href="">Kategorite    <i class="fa fa-caret-down" aria-hidden="true"></i></a>
           <ul>
           <?php $categories = new WP_Query(array(
     'posts_per_page' => 4,
